@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ousmane BA.
 - 👀 I’m interested in data science especially in data anlytics.
 - 🌱 I’m currently taking software engineering courses and I am also learning data anlaysis at Udacity.
-- 💞️ I’m looking to collaborate on multiple awesome projects that meet my interests.
+- 💞️ I’m looking to learn and collaborate on multiple awesome projects that meet my interests.
 - How to reach me :
 - Linked in : www.linkedin.com/in/ousmane-ba-8197751a1
 - Twitter : Ousmane_ba23
